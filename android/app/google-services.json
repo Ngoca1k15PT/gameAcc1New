@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57449497905",
+    "project_id": "game-xo-454c7",
+    "storage_bucket": "game-xo-454c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57449497905:android:a1305410601e86c3d21c10",
+        "android_client_info": {
+          "package_name": "com.machineslotsoffunlucky1233"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIdJeonpK45K3sBJ5MCxvmbi_0P6bafbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
